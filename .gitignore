@@ -1,0 +1,22 @@
+# Unity-specific files to ignore
+Library/
+Logs/
+Temp/
+obj/
+Build/
+Builds/
+Packages/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+*.DS_Store
